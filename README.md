@@ -13,4 +13,4 @@
 | JavaScript | [ReliableTXT-JS](https://github.com/Stenway/ReliableTXT-JS) | [WSV-JS](https://github.com/Stenway/WSV-JS) | [SML-JS](https://github.com/Stenway/SML-JS) |
 | LimaScript | [ReliableTXT-LS](https://github.com/Stenway/ReliableTXT-LS) |  |  |
 | PHP | [ReliableTXT-PHP](https://github.com/Stenway/ReliableTXT-PHP) | [WSV-PHP](https://github.com/Stenway/WSV-PHP) | [SML-PHP](https://github.com/Stenway/SML-PHP) |
-| Python | [ReliableTXT-Python](https://github.com/Stenway/ReliableTXT-Python) |  |  |
+| Python | [ReliableTXT-Python](https://github.com/Stenway/ReliableTXT-Python) | [WSV-Python](https://github.com/Stenway/WSV-Python) | [SML-Python](https://github.com/Stenway/SML-Python) |
