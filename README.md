@@ -14,4 +14,4 @@
 | LimaScript | [ReliableTXT-LS](https://github.com/Stenway/ReliableTXT-LS) |  |  |
 | PHP | [ReliableTXT-PHP](https://github.com/Stenway/ReliableTXT-PHP) | [WSV-PHP](https://github.com/Stenway/WSV-PHP) | [SML-PHP](https://github.com/Stenway/SML-PHP) |
 | Python | [ReliableTXT-Python](https://github.com/Stenway/ReliableTXT-Python) | [WSV-Python](https://github.com/Stenway/WSV-Python) | [SML-Python](https://github.com/Stenway/SML-Python) |
-| TypeScript | [ReliableTXT-TS](https://github.com/Stenway/ReliableTXT-TS) | [WSV-TS](https://github.com/Stenway/WSV-TS) |  |
+| TypeScript | [ReliableTXT-TS](https://github.com/Stenway/ReliableTXT-TS) | [WSV-TS](https://github.com/Stenway/WSV-TS) | [SML-TS](https://github.com/Stenway/SML-TS) |
