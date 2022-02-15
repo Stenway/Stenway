@@ -9,7 +9,7 @@
 | Language | ReliableTXT | WSV | SML | TBL |
 | --- | --- | --- | --- | --- |
 | C# | [ReliableTXT-CS](https://github.com/Stenway/ReliableTXT-CS) | [WSV-CS](https://github.com/Stenway/WSV-CS) | [SML-CS](https://github.com/Stenway/SML-CS) |  |
-| Java | [ReliableTXT-Java](https://github.com/Stenway/ReliableTXT-Java) | [WSV-Java](https://github.com/Stenway/WSV-Java) | [SML-Java](https://github.com/Stenway/SML-Java) |  |
+| Java | [ReliableTXT-Java](https://github.com/Stenway/ReliableTXT-Java) | [WSV-Java](https://github.com/Stenway/WSV-Java) | [SML-Java](https://github.com/Stenway/SML-Java) | [TBL-Java](https://github.com/Stenway/TBL-Java) |
 | JavaScript | [ReliableTXT-JS](https://github.com/Stenway/ReliableTXT-JS) | [WSV-JS](https://github.com/Stenway/WSV-JS) | [SML-JS](https://github.com/Stenway/SML-JS) |  |
 | LimaScript | [ReliableTXT-LS](https://github.com/Stenway/ReliableTXT-LS) |  |  |  |
 | PHP | [ReliableTXT-PHP](https://github.com/Stenway/ReliableTXT-PHP) | [WSV-PHP](https://github.com/Stenway/WSV-PHP) | [SML-PHP](https://github.com/Stenway/SML-PHP) |  |
