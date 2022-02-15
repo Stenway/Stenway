@@ -6,12 +6,12 @@
 
 ## ReliableTXT, WSV and SML Repositories
 
-| Language | ReliableTXT | WSV | SML |
-| --- | --- | --- | --- |
-| C# | [ReliableTXT-CS](https://github.com/Stenway/ReliableTXT-CS) | [WSV-CS](https://github.com/Stenway/WSV-CS) | [SML-CS](https://github.com/Stenway/SML-CS) |
-| Java | [ReliableTXT-Java](https://github.com/Stenway/ReliableTXT-Java) | [WSV-Java](https://github.com/Stenway/WSV-Java) | [SML-Java](https://github.com/Stenway/SML-Java) |
-| JavaScript | [ReliableTXT-JS](https://github.com/Stenway/ReliableTXT-JS) | [WSV-JS](https://github.com/Stenway/WSV-JS) | [SML-JS](https://github.com/Stenway/SML-JS) |
-| LimaScript | [ReliableTXT-LS](https://github.com/Stenway/ReliableTXT-LS) |  |  |
-| PHP | [ReliableTXT-PHP](https://github.com/Stenway/ReliableTXT-PHP) | [WSV-PHP](https://github.com/Stenway/WSV-PHP) | [SML-PHP](https://github.com/Stenway/SML-PHP) |
-| Python | [ReliableTXT-Python](https://github.com/Stenway/ReliableTXT-Python) | [WSV-Python](https://github.com/Stenway/WSV-Python) | [SML-Python](https://github.com/Stenway/SML-Python) |
-| TypeScript | [ReliableTXT-TS](https://github.com/Stenway/ReliableTXT-TS) | [WSV-TS](https://github.com/Stenway/WSV-TS) | [SML-TS](https://github.com/Stenway/SML-TS) |
+| Language | ReliableTXT | WSV | SML | TBL |
+| --- | --- | --- | --- | --- |
+| C# | [ReliableTXT-CS](https://github.com/Stenway/ReliableTXT-CS) | [WSV-CS](https://github.com/Stenway/WSV-CS) | [SML-CS](https://github.com/Stenway/SML-CS) |  |
+| Java | [ReliableTXT-Java](https://github.com/Stenway/ReliableTXT-Java) | [WSV-Java](https://github.com/Stenway/WSV-Java) | [SML-Java](https://github.com/Stenway/SML-Java) |  |
+| JavaScript | [ReliableTXT-JS](https://github.com/Stenway/ReliableTXT-JS) | [WSV-JS](https://github.com/Stenway/WSV-JS) | [SML-JS](https://github.com/Stenway/SML-JS) |  |
+| LimaScript | [ReliableTXT-LS](https://github.com/Stenway/ReliableTXT-LS) |  |  |  |
+| PHP | [ReliableTXT-PHP](https://github.com/Stenway/ReliableTXT-PHP) | [WSV-PHP](https://github.com/Stenway/WSV-PHP) | [SML-PHP](https://github.com/Stenway/SML-PHP) |  |
+| Python | [ReliableTXT-Python](https://github.com/Stenway/ReliableTXT-Python) | [WSV-Python](https://github.com/Stenway/WSV-Python) | [SML-Python](https://github.com/Stenway/SML-Python) |  |
+| TypeScript | [ReliableTXT-TS](https://github.com/Stenway/ReliableTXT-TS) | [WSV-TS](https://github.com/Stenway/WSV-TS) | [SML-TS](https://github.com/Stenway/SML-TS) | [TBL-TS](https://github.com/Stenway/TBL-TS) |
